@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharonmaharjan18
-- 👀 I’m interested in cisco,business analytical
+- 👀 I’m interested in cisco and sql
 - 🌱 I’m currently learning java, python,windows powershell
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me sharonmaharjan18@gmail.com
